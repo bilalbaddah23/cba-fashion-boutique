@@ -1,0 +1,382 @@
+{
+  "brand": "CBA Fashion Boutique",
+  "handle": "cbafashionboutique_",
+  "instagram": "https://www.instagram.com/cbafashionboutique_/",
+  "contactMode": "whatsapp",
+  "phone": "96181138128",
+  "displayPhone": "+961 81 138 128",
+  "publicPhoneObserved": "96181138128",
+  "hours": "Confirm current visiting hours with the boutique",
+  "followersObserved": null,
+  "followersDisplay": "25.7K",
+  "latestVisiblePost": "2026-11-18",
+  "researchDate": "2026-11-18",
+  "profileBio": "• Byblos Roman Road\n• Dm or WhatsApp 81138128\n• Exchange only By size",
+  "bioLinks": [
+    "https://wa.me/message/LUL4YREYL5X7I1",
+    "https://maps.google.com/?q=34.122494,35.647713"
+  ],
+  "branches": [
+    {
+      "name": "Byblos Roman Road",
+      "mapUrl": "https://maps.google.com/?q=34.122494,35.647713"
+    }
+  ],
+  "about": "Based on Byblos Roman Road, CBA Fashion Boutique shares a fashion edit of fitted dresses, tailored layers and coordinated looks. Browse the photographed pieces, save the looks you like and ask the boutique to confirm fit, availability and price on WhatsApp.",
+  "heroImage": "C:/Projects/prospect-research/nov17-fashion-build3/cba-fashion-boutique/assets/native-hero.jpg",
+  "storyImage": "C:\\Projects\\prospect-research\\nov17-fashion-build3\\cba-fashion-boutique\\assets\\03.jpg",
+  "galleryImages": [
+    "C:\\Projects\\prospect-research\\nov17-fashion-build3\\cba-fashion-boutique\\assets\\01.jpg",
+    "C:\\Projects\\prospect-research\\nov17-fashion-build3\\cba-fashion-boutique\\assets\\02.jpg",
+    "C:\\Projects\\prospect-research\\nov17-fashion-build3\\cba-fashion-boutique\\assets\\03.jpg",
+    "C:\\Projects\\prospect-research\\nov17-fashion-build3\\cba-fashion-boutique\\assets\\04.jpg",
+    "C:/Projects/prospect-research/nov17-fashion-build3/cba-fashion-boutique/assets/native-hero.jpg",
+    "C:\\Projects\\prospect-research\\nov17-fashion-build3\\cba-fashion-boutique\\assets\\06.jpg",
+    "C:\\Projects\\prospect-research\\nov17-fashion-build3\\cba-fashion-boutique\\assets\\07.jpg",
+    "C:\\Projects\\prospect-research\\nov17-fashion-build3\\cba-fashion-boutique\\assets\\08.jpg",
+    "C:\\Projects\\prospect-research\\nov17-fashion-build3\\cba-fashion-boutique\\assets\\09.jpg",
+    "C:\\Projects\\prospect-research\\nov17-fashion-build3\\cba-fashion-boutique\\assets\\10.jpg",
+    "C:\\Projects\\prospect-research\\nov17-fashion-build3\\cba-fashion-boutique\\assets\\11.jpg",
+    "C:\\Projects\\prospect-research\\nov17-fashion-build3\\cba-fashion-boutique\\assets\\12.jpg"
+  ],
+  "products": [
+    {
+      "id": "grey-strapless-tailored-look",
+      "name": "Grey Strapless Tailored Look",
+      "category": "Coordinated looks",
+      "description": "A pale grey strapless button-front tailored top styled with wide-leg trousers. Confirm the exact item, fit, colour, current availability and price with CBA Fashion Boutique. Separate garments and styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov17-fashion-build3\\cba-fashion-boutique\\assets\\01.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/cbafashionboutique_/reel/Df47XXKOjOE/",
+      "sourcePosts": [
+        "https://www.instagram.com/cbafashionboutique_/reel/Df47XXKOjOE/"
+      ],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "navy-off-shoulder-mini-dress",
+      "name": "Navy Off Shoulder Mini Dress",
+      "category": "Dresses",
+      "description": "A navy long-sleeved off-shoulder mini dress with a fitted silhouette. Confirm the exact item, fit, colour, current availability and price with CBA Fashion Boutique. Separate garments and styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov17-fashion-build3\\cba-fashion-boutique\\assets\\02.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/cbafashionboutique_/reel/Df45F1muLgV/",
+      "sourcePosts": [
+        "https://www.instagram.com/cbafashionboutique_/reel/Df45F1muLgV/"
+      ],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "charcoal-textured-jacket",
+      "name": "Charcoal Textured Jacket",
+      "category": "Outer layers",
+      "description": "A charcoal cropped jacket with a textured surface, shown with dark shorts in two boutique mirror views. Confirm the exact item, fit, colour, current availability and price with CBA Fashion Boutique. Separate garments and styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov17-fashion-build3\\cba-fashion-boutique\\assets\\03.jpg",
+        "C:\\Projects\\prospect-research\\nov17-fashion-build3\\cba-fashion-boutique\\assets\\04.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/cbafashionboutique_/p/Df4wiM1jn6l/",
+      "sourcePosts": [
+        "https://www.instagram.com/cbafashionboutique_/p/Df4wiM1jn6l/",
+        "https://www.instagram.com/cbafashionboutique_/reel/Df4wHb3OAsn/"
+      ],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "ivory-tailored-button-layer",
+      "name": "Ivory Tailored Button Layer",
+      "category": "Outer layers",
+      "description": "An ivory long tailored button-front layer with lapels and decorative-looking light buttons, styled as a short dress in two boutique views. Confirm the exact item, fit, colour, current availability and price with CBA Fashion Boutique. Separate garments and styling accessories are not automatically included.",
+      "images": [
+        "C:/Projects/prospect-research/nov17-fashion-build3/cba-fashion-boutique/assets/native-hero.jpg",
+        "C:\\Projects\\prospect-research\\nov17-fashion-build3\\cba-fashion-boutique\\assets\\06.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/cbafashionboutique_/p/Df4vsZbjj9s/",
+      "sourcePosts": [
+        "https://www.instagram.com/cbafashionboutique_/p/Df4vsZbjj9s/",
+        "https://www.instagram.com/cbafashionboutique_/reel/Df4vg7auwTt/"
+      ],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "brown-patterned-strapless-look",
+      "name": "Brown Patterned Strapless Look",
+      "category": "Coordinated looks",
+      "description": "A brown patterned strapless top styled with dark wide-leg trousers and a belt. Confirm the exact item, fit, colour, current availability and price with CBA Fashion Boutique. Separate garments and styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov17-fashion-build3\\cba-fashion-boutique\\assets\\07.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/cbafashionboutique_/reel/DfzS3_7odkb/",
+      "sourcePosts": [
+        "https://www.instagram.com/cbafashionboutique_/reel/DfzS3_7odkb/"
+      ],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "black-belted-textured-coat",
+      "name": "Black Belted Textured Coat",
+      "category": "Outer layers",
+      "description": "A short black coat with a plush-looking surface, long sleeves and a tie waist. Confirm the exact item, fit, colour, current availability and price with CBA Fashion Boutique. Separate garments and styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov17-fashion-build3\\cba-fashion-boutique\\assets\\08.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/cbafashionboutique_/reel/DfzSSdIImBm/",
+      "sourcePosts": [
+        "https://www.instagram.com/cbafashionboutique_/reel/DfzSSdIImBm/"
+      ],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "grey-striped-skirt-look",
+      "name": "Grey Striped Skirt Look",
+      "category": "Coordinated looks",
+      "description": "A grey striped mini skirt styled with a fitted black long-sleeved top and tall boots. Confirm the exact item, fit, colour, current availability and price with CBA Fashion Boutique. Separate garments and styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov17-fashion-build3\\cba-fashion-boutique\\assets\\09.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/cbafashionboutique_/reel/DfzRncDoHRi/",
+      "sourcePosts": [
+        "https://www.instagram.com/cbafashionboutique_/reel/DfzRncDoHRi/"
+      ],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "ornate-brown-skirt-look",
+      "name": "Ornate Brown Skirt Look",
+      "category": "Coordinated looks",
+      "description": "A brown mini skirt with an ornate light pattern, styled with a cream scoop-neck knit top. Confirm the exact item, fit, colour, current availability and price with CBA Fashion Boutique. Separate garments and styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov17-fashion-build3\\cba-fashion-boutique\\assets\\10.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/cbafashionboutique_/reel/DfzRVCKI2nW/",
+      "sourcePosts": [
+        "https://www.instagram.com/cbafashionboutique_/reel/DfzRVCKI2nW/"
+      ],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "berry-slim-coordinated-look",
+      "name": "Berry Slim Coordinated Look",
+      "category": "Coordinated looks",
+      "description": "A berry-toned thin-strap fitted top styled with matching-looking slim trousers. Confirm the exact item, fit, colour, current availability and price with CBA Fashion Boutique. Separate garments and styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov17-fashion-build3\\cba-fashion-boutique\\assets\\11.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/cbafashionboutique_/reel/DfpOWoMuWWv/",
+      "sourcePosts": [
+        "https://www.instagram.com/cbafashionboutique_/reel/DfpOWoMuWWv/"
+      ],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "paris-lettered-casual-look",
+      "name": "Paris Lettered Casual Look",
+      "category": "Coordinated looks",
+      "description": "A light short-sleeved Paris-lettered top styled with brown slim trousers and a dark belt. Confirm the exact item, fit, colour, current availability and price with CBA Fashion Boutique. Separate garments and styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov17-fashion-build3\\cba-fashion-boutique\\assets\\12.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/cbafashionboutique_/reel/DfpJsqYOH9k/",
+      "sourcePosts": [
+        "https://www.instagram.com/cbafashionboutique_/reel/DfpJsqYOH9k/"
+      ],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    }
+  ],
+  "activityEvidence": {
+    "source": "https://www.instagram.com/cbafashionboutique_/",
+    "latestSource": "https://www.instagram.com/cbafashionboutique_/reel/Df47XXKOjOE/",
+    "latestDate": "2026-11-18",
+    "note": "Root observed public primary profile, current biography, expanded links and grid with several November18 posts and other November16/12 posts."
+  },
+  "websiteCheck": {
+    "result": "No matching official website found in reviewed public profile links and bounded name, handle and public phone searches. An unlisted website cannot be ruled out.",
+    "queries": [
+      "\"cbafashionboutique_\" website shop",
+      "\"CBA Fashion Boutique\" Byblos website",
+      "\"81138128\" boutique"
+    ],
+    "checkedDate": "2026-11-18",
+    "sources": [
+      "https://www.instagram.com/cbafashionboutique_/"
+    ],
+    "primaryObservation": "Root expanded profile links and found WhatsApp message link and a location map only. Same-name Philippines Lazada listings are a different regional business and are not assigned to this Lebanese boutique."
+  },
+  "imageProvenance": [
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build3\\cba-fashion-boutique\\assets\\01.jpg",
+      "sourcePost": "https://www.instagram.com/cbafashionboutique_/reel/Df47XXKOjOE/",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/910570024_17955048000300585_6495713595865791490_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Zv3XXUq363YQ7kNvwGXlxLo&_nc_oc=AdrilO8vU-RiJ6T6F7r2xliSUsgQrSTuEsr60JZFAp-sm6-BhiTs3AzPbtMehUioMoY&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=w2aX3tWyNGgCcMsq1VMfjw&_nc_ss=7b689&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQSc5Z1D2GtNeQW10v1SMMKUvB7vmVWlmxzkekHGh4lKaw&oe=6B039602",
+      "alt": "Video by CBA FASHION BOUTIQUE on November 18, 2026. May be an image of dress, jumpsuit and text.",
+      "width": 360,
+      "height": 640,
+      "sha256": "712533cff1a87ebc8027d9129a65c5d75ddd20ef4207166817009bb8465c82a1",
+      "collectedDate": "2026-11-18",
+      "method": "Root CUA pageAssets public Instagram rendered image export"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build3\\cba-fashion-boutique\\assets\\02.jpg",
+      "sourcePost": "https://www.instagram.com/cbafashionboutique_/reel/Df45F1muLgV/",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/912351201_1853515392740476_7412657624545580225_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=RcqJT6BhooYQ7kNvwFuDjbu&_nc_oc=Adr7eI31SVlqB6_0dL3CXQFmrG3nwlntmqnCT5OtEywBJ_TxXGO7DTON0kjpejxz0S4&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=w2aX3tWyNGgCcMsq1VMfjw&_nc_ss=7b689&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQTfK-qpeNQHvHcu4iM1pw-ZnbBuy83Xt9vFFSlMuTxeEA&oe=6B03A576",
+      "alt": "Video by CBA FASHION BOUTIQUE on November 18, 2026. May be an image of skirt, miniskirt, dress and text.",
+      "width": 361,
+      "height": 640,
+      "sha256": "50d5ab17a1452f319c5cbda43c5d017d44f7510764b992ffc54711826081d36b",
+      "collectedDate": "2026-11-18",
+      "method": "Root CUA pageAssets public Instagram rendered image export"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build3\\cba-fashion-boutique\\assets\\03.jpg",
+      "sourcePost": "https://www.instagram.com/cbafashionboutique_/p/Df4wiM1jn6l/",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/916887103_17955034443300585_7359339687027583755_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=rDNKppTCzoUQ7kNvwEOpcSx&_nc_oc=AdquX2wumvzehBPyQQt_oP_lno-G40tO0I0SjhjqrYkic79yb7yuV57t8C2oZcZhYlI&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=w2aX3tWyNGgCcMsq1VMfjw&_nc_ss=7b689&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQQGbJpfdCFBzpDgYFOyVlWRD0R7eq-KmZ3ACFMgFpFmoA&oe=6B038999",
+      "alt": "Photo by CBA FASHION BOUTIQUE on November 18, 2026.",
+      "width": 480,
+      "height": 640,
+      "sha256": "d37078dc43edb435bdc9d07014e5d4edf9ada59c0ca8f10f3e3cf3a5ab9cf59a",
+      "collectedDate": "2026-11-18",
+      "method": "Root CUA pageAssets public Instagram rendered image export"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build3\\cba-fashion-boutique\\assets\\04.jpg",
+      "sourcePost": "https://www.instagram.com/cbafashionboutique_/reel/Df4wHb3OAsn/",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/907446039_17955034077300585_2523159087418214161_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=OKEzJFPdA7QQ7kNvwFS6-_x&_nc_oc=Adq6-LBwbfPc73iganqkHQmHqEqojTQUqosAV5l63BSdpGtdPTkh1--6mjiSWOAVdEU&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=w2aX3tWyNGgCcMsq1VMfjw&_nc_ss=7b689&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQRCcpLQVKyHrvK_EIxLKrtuUGYYR4B6whXn633hRzXSgg&oe=6B03B47B",
+      "alt": "Video by CBA FASHION BOUTIQUE on November 18, 2026. May be an image of miniskirt, top, skirt, shorts and text.",
+      "width": 360,
+      "height": 640,
+      "sha256": "79e785999eb6c5e5c608f439028b3a685d5b94c82f5dd5d7fd5fdca9772dffa5",
+      "collectedDate": "2026-11-18",
+      "method": "Root CUA pageAssets public Instagram rendered image export"
+    },
+    {
+      "path": "C:/Projects/prospect-research/nov17-fashion-build3/cba-fashion-boutique/assets/native-hero.jpg",
+      "sourcePost": "https://www.instagram.com/cbafashionboutique_/p/Df4vsZbjj9s/",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/912540020_17955033057300585_8094290386033425280_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=8K3271z5idgQ7kNvwFJ58kF&_nc_oc=AdqrsucJj6bH4rh7tn2fJvxUqYqiJuvpK6g5T5TgSpU9dXs7ryIshNj9ILAnwh-g7uE&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=w2aX3tWyNGgCcMsq1VMfjw&_nc_ss=7b689&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQSbNpeRoEmTsoeYU9RbcNKQSVeGo2AEWc2XO8tShEIgQA&oe=6B03B731",
+      "alt": "Photo by CBA FASHION BOUTIQUE on November 18, 2026.",
+      "width": 585,
+      "height": 640,
+      "sha256": "041ded8e7788705eb330f48705ebf9716a250661311adbf4ae69cc196886d5c7",
+      "collectedDate": "2026-11-18",
+      "method": "Root CUA pageAssets public Instagram rendered image export"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build3\\cba-fashion-boutique\\assets\\06.jpg",
+      "sourcePost": "https://www.instagram.com/cbafashionboutique_/reel/Df4vg7auwTt/",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/910303259_17955032976300585_9208661516773449216_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=4rLDZWxXghMQ7kNvwFl6r8L&_nc_oc=AdqQD2YxhnE0aMTiozZPWWGHBUF7HRopBInwJTvqP5l6yY7Ynh-xi1YstORwsefXrYs&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=w2aX3tWyNGgCcMsq1VMfjw&_nc_ss=7b689&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQTZtHu7f8F6uEh-1ZNl5uBkYeMuYYsmhIDq0obJd7Dq_A&oe=6B0392F3",
+      "alt": "Video by CBA FASHION BOUTIQUE on November 18, 2026. May be a selfie of coat, suit, dress and text.",
+      "width": 360,
+      "height": 640,
+      "sha256": "4de0d77607a4569be1f7ee05a6d568a35686b6633204f6f8eea9387083467dcd",
+      "collectedDate": "2026-11-18",
+      "method": "Root CUA pageAssets public Instagram rendered image export"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build3\\cba-fashion-boutique\\assets\\07.jpg",
+      "sourcePost": "https://www.instagram.com/cbafashionboutique_/reel/DfzS3_7odkb/",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/909690456_17954738469300585_2672613850445519573_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=u2hsSvB88HwQ7kNvwGMs2z8&_nc_oc=Adoyigvv72R0GjEQpI5-kiJ1meGKhmoD2UNwDtSWr01IvgtOLca7NGPFRCS4coc47nw&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=w2aX3tWyNGgCcMsq1VMfjw&_nc_ss=7b689&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQQ_BDr91dGFjGjAVGcBsTmrdwnzf9BJVFZ_tHWFAMYpOA&oe=6B039A66",
+      "alt": "Video by CBA FASHION BOUTIQUE on November 16, 2026. May be an image of jumpsuit and text.",
+      "width": 360,
+      "height": 640,
+      "sha256": "c9300da142a3ca5eacc73cb0a270664fe39bc685f272da8fcbf5175ac828ccc5",
+      "collectedDate": "2026-11-18",
+      "method": "Root CUA pageAssets public Instagram rendered image export"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build3\\cba-fashion-boutique\\assets\\08.jpg",
+      "sourcePost": "https://www.instagram.com/cbafashionboutique_/reel/DfzSSdIImBm/",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/912348357_17954737905300585_5238731377937488497_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=g2Jee7xirsgQ7kNvwHwpdWm&_nc_oc=Adqq-QirHGFfNpgtMJggIV9DZRPn4T3thKVCpBO9ZZdD5ykMbz-XcLWh4W5dn6nH61I&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=w2aX3tWyNGgCcMsq1VMfjw&_nc_ss=7b689&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQQ09axv5OVcCZC-KSmHIpd7Vu7bWZ_qhOfVTb-9cvYZ4Q&oe=6B03BAC2",
+      "alt": "Video by CBA FASHION BOUTIQUE on November 16, 2026. May be an image of overcoat, duffle coat, sable coat, jacket, boots, robe, bath robe, parka and text.",
+      "width": 360,
+      "height": 640,
+      "sha256": "32dcede178d2b260f2d7568e39fc92fe9d92a9a30e25745ed011fb5a2416d78a",
+      "collectedDate": "2026-11-18",
+      "method": "Root CUA pageAssets public Instagram rendered image export"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build3\\cba-fashion-boutique\\assets\\09.jpg",
+      "sourcePost": "https://www.instagram.com/cbafashionboutique_/reel/DfzRncDoHRi/",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/912402619_17954736582300585_5796055245689119613_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=817Vj_gYIukQ7kNvwFTmSyL&_nc_oc=Adp_cSbDNMzCpLJd9A5ME1tmCoJ_TF06yF-Jvkm-_Dq3J-EelbNf3VIdGAPF3SgkWxQ&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=w2aX3tWyNGgCcMsq1VMfjw&_nc_ss=7b689&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQSZEKjGrCIgyIEEoGwiqp_aqihtwpgjJptfQsFnqUH1rA&oe=6B03A1BE",
+      "alt": "Video by CBA FASHION BOUTIQUE on November 16, 2026. May be an image of boots, skirt, top, miniskirt, dress, turtleneck and text.",
+      "width": 360,
+      "height": 640,
+      "sha256": "2b23ad926475cfa61fb8561a7e89f1eb5edf2fe5e25cd2df655644e22f499f08",
+      "collectedDate": "2026-11-18",
+      "method": "Root CUA pageAssets public Instagram rendered image export"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build3\\cba-fashion-boutique\\assets\\10.jpg",
+      "sourcePost": "https://www.instagram.com/cbafashionboutique_/reel/DfzRVCKI2nW/",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/912161499_17954736198300585_6354730858372965737_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=FXeEuSrI8GAQ7kNvwGWR6W4&_nc_oc=AdrFCQXCfM1NdkeHfCb6ChmFvSWIex_nEvixdrZ2TqTb_JybRm-rVeIFVZ4JVt0mq6o&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=w2aX3tWyNGgCcMsq1VMfjw&_nc_ss=7b689&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQSfXcRnxHEH2FXaANHZ-BdD5yndgFrJePQ6q_2D292WFg&oe=6B03A368",
+      "alt": "Video by CBA FASHION BOUTIQUE on November 16, 2026. May be an image of skirt, miniskirt and text.",
+      "width": 360,
+      "height": 640,
+      "sha256": "6795570c3c1f2ae438ee9745dcc2d9bee33f70baa089899c0f9088497c91bcbc",
+      "collectedDate": "2026-11-18",
+      "method": "Root CUA pageAssets public Instagram rendered image export"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build3\\cba-fashion-boutique\\assets\\11.jpg",
+      "sourcePost": "https://www.instagram.com/cbafashionboutique_/reel/DfpOWoMuWWv/",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/891511371_17954097165300585_5105424128426600220_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=9HybOvMrvoIQ7kNvwFH6yND&_nc_oc=AdqhhgbRTd1CBdg6AknLmbU-cLXWHWuyoW7sw95tML1_6kyIFbzACLowNzDCA6L9Ny8&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=w2aX3tWyNGgCcMsq1VMfjw&_nc_ss=7b689&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQTotkzsX2aPBwtBbjonY0omrd2hMUZaBN4f5uDh9fmiGg&oe=6B03B0B8",
+      "alt": "Video by CBA FASHION BOUTIQUE on November 12, 2026. May be an image of jumpsuit and text.",
+      "width": 360,
+      "height": 640,
+      "sha256": "8ecf36f4a3b8e68af2ab8564e61ed56307a306be7d73efc272d2c705660acf22",
+      "collectedDate": "2026-11-18",
+      "method": "Root CUA pageAssets public Instagram rendered image export"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build3\\cba-fashion-boutique\\assets\\12.jpg",
+      "sourcePost": "https://www.instagram.com/cbafashionboutique_/reel/DfpJsqYOH9k/",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/890492168_17954091612300585_2127160317255576636_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=V9-n8ipKRNwQ7kNvwHAPJDL&_nc_oc=Ado31_Dw_dE0cR8PIhJipbChom0lp3abrexv6v0UTCsYHVlHVMb_Y0EZtmAjLmuvrhs&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=w2aX3tWyNGgCcMsq1VMfjw&_nc_ss=7b689&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQRoC2b7p1_uv21ZdN3lcWjdSdNFtkyshx5jDo3_97-C5w&oe=6B038EC4",
+      "alt": "Video by CBA FASHION BOUTIQUE on November 12, 2026. May be an image of pants, sweatpants, boots and text.",
+      "width": 360,
+      "height": 640,
+      "sha256": "d863d351641f01377e3e9f2c3e973a80260776ba87912e85746f26d7379035e4",
+      "collectedDate": "2026-11-18",
+      "method": "Root CUA pageAssets public Instagram rendered image export"
+    },
+    {
+      "alt": "Photo by CBA FASHION BOUTIQUE on November 18, 2026. May be an image of bath robe, dress, coat and text.",
+      "height": 4096,
+      "src": "https://instagram.fbey14-1.fna.fbcdn.net/v/t51.82787-15/912540020_17955033057300585_8094290386033425280_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ig_cache_key=NDAzMzE4MzE3ODUwMjYwMjk2OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzc0NS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=8K3271z5idgQ7kNvwFJ58kF&_nc_oc=AdqrsucJj6bH4rh7tn2fJvxUqYqiJuvpK6g5T5TgSpU9dXs7ryIshNj9ILAnwh-g7uE&_nc_zt=23&_nc_ht=instagram.fbey14-1.fna&_nc_gid=zMybwckXe2TPjDgpODjmKQ&_nc_ss=7b689&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQQkhuYvb1YbWAhTTRxI5V9H4wayjvLPhjccQpREMstZwA&oe=6B03B731",
+      "width": 3745,
+      "path": "C:/Projects/prospect-research/nov17-fashion-build3/cba-fashion-boutique/assets/native-hero.jpg",
+      "sourcePost": "https://www.instagram.com/cbafashionboutique_/p/Df4vsZbjj9s/",
+      "sourceUrl": "https://instagram.fbey14-1.fna.fbcdn.net/v/t51.82787-15/912540020_17955033057300585_8094290386033425280_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ig_cache_key=NDAzMzE4MzE3ODUwMjYwMjk2OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzc0NS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=8K3271z5idgQ7kNvwFJ58kF&_nc_oc=AdqrsucJj6bH4rh7tn2fJvxUqYqiJuvpK6g5T5TgSpU9dXs7ryIshNj9ILAnwh-g7uE&_nc_zt=23&_nc_ht=instagram.fbey14-1.fna&_nc_gid=zMybwckXe2TPjDgpODjmKQ&_nc_ss=7b689&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQQkhuYvb1YbWAhTTRxI5V9H4wayjvLPhjccQpREMstZwA&oe=6B03B731"
+    }
+  ],
+  "imageNotes": "Twelve public owner-account stills exported by root from rendered Instagram images through pageAssets. Some are native ReelcoverJPEGs, not extracted video frames. The charcoal jacket photos03/04 form one item; ivory tailored-layer photos05/06 form one item. All productpricesnull. Visual descriptions do not assert material composition, stock, exact garment bundles, authenticity or current prices. Keep public-source photographs withtheirCBAwatermark and portrait framing.",
+  "nativeHeroUpgrade": "Equivalent grid photo replaced with native full-size public still; no image synthesis or video extraction."
+}

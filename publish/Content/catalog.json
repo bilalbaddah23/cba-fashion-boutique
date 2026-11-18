@@ -1,0 +1,205 @@
+{
+  "brand": "CBA Fashion Boutique",
+  "contactMode": "whatsapp",
+  "phone": "96181138128",
+  "displayPhone": "+961 81 138 128",
+  "instagram": "https://www.instagram.com/cbafashionboutique_/",
+  "hours": "Confirm current visiting hours with the boutique",
+  "hero": "/images/photo-848527fdb4fdc79c.jpg",
+  "story": "/images/photo-93d2e1defdac5e39.jpg",
+  "galleryImages": [
+    "/images/photo-9e6429b6317fa3a3.jpg",
+    "/images/photo-e63423f59f1cd353.jpg",
+    "/images/photo-93d2e1defdac5e39.jpg",
+    "/images/photo-bcc47e460c2c158f.jpg",
+    "/images/photo-848527fdb4fdc79c.jpg",
+    "/images/photo-ee86508e70081c1e.jpg",
+    "/images/photo-532bb19d62491e4a.jpg",
+    "/images/photo-177e93464c34cd9d.jpg",
+    "/images/photo-6baf7534e095f9a4.jpg",
+    "/images/photo-5805d4a5dbb65cfe.jpg",
+    "/images/photo-762a53d02edcbccd.jpg",
+    "/images/photo-bd1914010a214861.jpg"
+  ],
+  "products": [
+    {
+      "id": "grey-strapless-tailored-look",
+      "name": "Grey Strapless Tailored Look",
+      "collection": "Coordinated looks",
+      "audience": "The edit",
+      "family": "",
+      "description": "A pale grey strapless button-front tailored top styled with wide-leg trousers. Confirm the exact item, fit, colour, current availability and price with CBA Fashion Boutique. Separate garments and styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/photo-9e6429b6317fa3a3.jpg"
+      ],
+      "source": "https://www.instagram.com/cbafashionboutique_/reel/Df47XXKOjOE/"
+    },
+    {
+      "id": "navy-off-shoulder-mini-dress",
+      "name": "Navy Off Shoulder Mini Dress",
+      "collection": "Dresses",
+      "audience": "The edit",
+      "family": "",
+      "description": "A navy long-sleeved off-shoulder mini dress with a fitted silhouette. Confirm the exact item, fit, colour, current availability and price with CBA Fashion Boutique. Separate garments and styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/photo-e63423f59f1cd353.jpg"
+      ],
+      "source": "https://www.instagram.com/cbafashionboutique_/reel/Df45F1muLgV/"
+    },
+    {
+      "id": "charcoal-textured-jacket",
+      "name": "Charcoal Textured Jacket",
+      "collection": "Outer layers",
+      "audience": "The edit",
+      "family": "",
+      "description": "A charcoal cropped jacket with a textured surface, shown with dark shorts in two boutique mirror views. Confirm the exact item, fit, colour, current availability and price with CBA Fashion Boutique. Separate garments and styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/photo-93d2e1defdac5e39.jpg",
+        "/images/photo-bcc47e460c2c158f.jpg"
+      ],
+      "source": "https://www.instagram.com/cbafashionboutique_/p/Df4wiM1jn6l/"
+    },
+    {
+      "id": "ivory-tailored-button-layer",
+      "name": "Ivory Tailored Button Layer",
+      "collection": "Outer layers",
+      "audience": "The edit",
+      "family": "",
+      "description": "An ivory long tailored button-front layer with lapels and decorative-looking light buttons, styled as a short dress in two boutique views. Confirm the exact item, fit, colour, current availability and price with CBA Fashion Boutique. Separate garments and styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/photo-848527fdb4fdc79c.jpg",
+        "/images/photo-ee86508e70081c1e.jpg"
+      ],
+      "source": "https://www.instagram.com/cbafashionboutique_/p/Df4vsZbjj9s/"
+    },
+    {
+      "id": "brown-patterned-strapless-look",
+      "name": "Brown Patterned Strapless Look",
+      "collection": "Coordinated looks",
+      "audience": "The edit",
+      "family": "",
+      "description": "A brown patterned strapless top styled with dark wide-leg trousers and a belt. Confirm the exact item, fit, colour, current availability and price with CBA Fashion Boutique. Separate garments and styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/photo-532bb19d62491e4a.jpg"
+      ],
+      "source": "https://www.instagram.com/cbafashionboutique_/reel/DfzS3_7odkb/"
+    },
+    {
+      "id": "black-belted-textured-coat",
+      "name": "Black Belted Textured Coat",
+      "collection": "Outer layers",
+      "audience": "The edit",
+      "family": "",
+      "description": "A short black coat with a plush-looking surface, long sleeves and a tie waist. Confirm the exact item, fit, colour, current availability and price with CBA Fashion Boutique. Separate garments and styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/photo-177e93464c34cd9d.jpg"
+      ],
+      "source": "https://www.instagram.com/cbafashionboutique_/reel/DfzSSdIImBm/"
+    },
+    {
+      "id": "grey-striped-skirt-look",
+      "name": "Grey Striped Skirt Look",
+      "collection": "Coordinated looks",
+      "audience": "The edit",
+      "family": "",
+      "description": "A grey striped mini skirt styled with a fitted black long-sleeved top and tall boots. Confirm the exact item, fit, colour, current availability and price with CBA Fashion Boutique. Separate garments and styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/photo-6baf7534e095f9a4.jpg"
+      ],
+      "source": "https://www.instagram.com/cbafashionboutique_/reel/DfzRncDoHRi/"
+    },
+    {
+      "id": "ornate-brown-skirt-look",
+      "name": "Ornate Brown Skirt Look",
+      "collection": "Coordinated looks",
+      "audience": "The edit",
+      "family": "",
+      "description": "A brown mini skirt with an ornate light pattern, styled with a cream scoop-neck knit top. Confirm the exact item, fit, colour, current availability and price with CBA Fashion Boutique. Separate garments and styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/photo-5805d4a5dbb65cfe.jpg"
+      ],
+      "source": "https://www.instagram.com/cbafashionboutique_/reel/DfzRVCKI2nW/"
+    },
+    {
+      "id": "berry-slim-coordinated-look",
+      "name": "Berry Slim Coordinated Look",
+      "collection": "Coordinated looks",
+      "audience": "The edit",
+      "family": "",
+      "description": "A berry-toned thin-strap fitted top styled with matching-looking slim trousers. Confirm the exact item, fit, colour, current availability and price with CBA Fashion Boutique. Separate garments and styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/photo-762a53d02edcbccd.jpg"
+      ],
+      "source": "https://www.instagram.com/cbafashionboutique_/reel/DfpOWoMuWWv/"
+    },
+    {
+      "id": "paris-lettered-casual-look",
+      "name": "Paris Lettered Casual Look",
+      "collection": "Coordinated looks",
+      "audience": "The edit",
+      "family": "",
+      "description": "A light short-sleeved Paris-lettered top styled with brown slim trousers and a dark belt. Confirm the exact item, fit, colour, current availability and price with CBA Fashion Boutique. Separate garments and styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/photo-bd1914010a214861.jpg"
+      ],
+      "source": "https://www.instagram.com/cbafashionboutique_/reel/DfpJsqYOH9k/"
+    }
+  ],
+  "services": [],
+  "branches": [
+    {
+      "name": "Byblos Roman Road",
+      "mapUrl": "https://maps.google.com/?q=34.122494,35.647713"
+    }
+  ]
+}
